@@ -1,5 +1,7 @@
 # yahoo-finance-sentiment-analysis
 
+Watch short video demo here: https://youtu.be/ot44Uykyrrc
+
 This program visits Yahoo Finance every 5 minutes and searches for recently published articles about publicly traded companies.
 
 The ultimate goal is seamless integration with a trading platform API, so that shares of a given company can be bought in connection with breaking news.
